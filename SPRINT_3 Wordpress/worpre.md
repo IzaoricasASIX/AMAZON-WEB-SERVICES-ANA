@@ -9,7 +9,7 @@
 # E5 · Contingut principal de functions.php
 ![Paso](e5.png)
 # E6 · Tema fill actiu 
-![Paso](e7.png)
+![Paso](e6.png)
 # E7 · Shortcode funcionant
 ![Paso](e7.png)
 # E8 · Modificació pròpia aplicada.
