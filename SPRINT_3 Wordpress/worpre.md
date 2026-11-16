@@ -5,20 +5,18 @@
 # E3 · Directori porconstech-child
 ![Paso](e3.png)
 # E4 · Contingut principal de style.css
-![Paso](e.png)
+![Paso](e4.png)
 # E5 · Contingut principal de functions.php
-
+![Paso](e5.png)
 # E6 · Tema fill actiu 
-
+![Paso](e7.png)
 # E7 · Shortcode funcionant
-
+![Paso](e7.png)
 # E8 · Modificació pròpia aplicada.
-
-
-
-
 ## Antes
+![Paso](e8a.png)
 
 ## Después
+![Paso](e8b.png)
 
 
