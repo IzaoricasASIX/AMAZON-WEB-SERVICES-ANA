@@ -13,10 +13,10 @@
 # E7 · Shortcode funcionant
 ![Paso](e7.png)
 # E8 · Modificació pròpia aplicada.
-## Antes
+### Antes
 ![Paso](e8a.png)
 
-## Después
+### Después
 ![Paso](e8b.png)
 
 
